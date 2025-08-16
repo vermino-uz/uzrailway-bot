@@ -1,0 +1,94 @@
+{
+    "map": [
+        {
+            "id": "1",
+            "name": "Toshkent",
+            "code": "2900000"
+        },
+        {
+            "id": "2",
+            "name": "Toshkent shimoliy",
+            "code": "2900001"
+        },
+        {
+            "id": "3",
+            "name": "Toshkent janubiy",
+            "code": "2900002"
+        },
+        {
+            "id": "4",
+            "name": "Samarqand",
+            "code": "2900700"
+        },
+        {
+            "id": "5",
+            "name": "Buxoro",
+            "code": "2900800"
+        },
+        {
+            "id": "6",
+            "name": "Xiva",
+            "code": "2900172"
+        },
+        {
+            "id": "7",
+            "name": "Urganch",
+            "code": "2900790"
+        },
+        {
+            "id": "8",
+            "name": "Nukus",
+            "code": "2900970"
+        },
+        {
+            "id": "9",
+            "name": "Navoiy",
+            "code": "2900930"
+        },
+        {
+            "id": "10",
+            "name": "Qarshi",
+            "code": "2900750"
+        },
+        {
+            "id": "11",
+            "name": "Andijon",
+            "code": "2900680"
+        },
+        {
+            "id": "12",
+            "name": "Jizzax",
+            "code": "2900720"
+        },
+        {
+            "id": "13",
+            "name": "Termiz",
+            "code": "2900255"
+        },
+        {
+            "id": "14",
+            "name": "Guliston",
+            "code": "2900850"
+        },
+        {
+            "id": "15",
+            "name": "Qo'qon",
+            "code": "2900880"
+        },
+        {
+            "id": "16",
+            "name": "Marg'ilon",
+            "code": "2900920"
+        },
+        {
+            "id": "17",
+            "name": "Pop",
+            "code": "2900693"
+        },
+        {
+            "id": "18",
+            "name": "Namangan",
+            "code": "2900940"
+        }
+    ]
+}

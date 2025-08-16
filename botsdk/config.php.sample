@@ -1,0 +1,7 @@
+<?php
+
+$api_key = 'SIZNING_TELEGRAM_BOT_TOKEN';
+
+// Railway API Configuration - Update these when cookies expire
+$railway_xsrf_token = "sizning-xsrf-token";
+$railway_cookies = "sizning-cookies";
